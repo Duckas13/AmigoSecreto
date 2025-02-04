@@ -1,9 +1,9 @@
-# 🎁 Amigo Secreto
+# 🎁 Challenge Amigo Secreto
 
-Este é um projeto simples de **Amigo Secreto**, onde os usuários podem adicionar nomes a uma lista, visualizar os participantes e sortear um amigo aleatoriamente.
+Este é um projeto simples de **Amigo Secreto**, onde os usuários podem adicionar nomes a uma lista, visualizar os participantes e sortear um amigo aleatoriamente. Feito em parceria com a Alura.
 
 ## 📸 Screenshot  
-![Amigo Secreto](image.png)
+![Amigo Secreto](assets/AmigoSecreto.jpeg)
 
 ---
 
